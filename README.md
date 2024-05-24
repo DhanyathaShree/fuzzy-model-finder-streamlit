@@ -16,3 +16,10 @@ Here's a brief description of the code:
 6. **Submit Button**: Upon clicking the "Submit" button, the user input is processed. If a user input is provided, the best matched database name and the matching score are displayed using markdown formatting. If no input is provided, an error message prompts the user to enter a vehicle model.
 
 Overall, this Streamlit application provides a simple and interactive interface for matching user-provided vehicle model names with a predefined list of database model names.
+
+To Run Code :
+1. open cmd, locate to location where <your_file>.py is present
+2. python -m streamlit run <your_file>.py
+
+![image](https://github.com/DhanyathaShree/fuzzy-model-finder-streamlit/assets/140679630/f0e51649-340d-42e4-9203-6250d7134375)
+
