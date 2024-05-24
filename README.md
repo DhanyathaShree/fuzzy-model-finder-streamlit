@@ -18,8 +18,10 @@ Here's a brief description of the code:
 Overall, this Streamlit application provides a simple and interactive interface for matching user-provided vehicle model names with a predefined list of database model names.
 
 To Run Code :
-1. open cmd, locate to location where <your_file>.py is present
+1. open cmd, locate to location where <your_file>.py is found
 2. python -m streamlit run <your_file>.py
 
-![image](https://github.com/DhanyathaShree/fuzzy-model-finder-streamlit/assets/140679630/f0e51649-340d-42e4-9203-6250d7134375)
+Output Screen
+![image](https://github.com/DhanyathaShree/fuzzy-model-finder-streamlit/assets/140679630/a7637ca3-2155-4689-919a-a33495630f79)
+![image](https://github.com/DhanyathaShree/fuzzy-model-finder-streamlit/assets/140679630/dbeca72c-3c16-4040-904a-659caebc7685)
 
